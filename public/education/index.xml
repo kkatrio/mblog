@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education on missmorenakos</title>
-    <link>https://missmorenakos.tk/education/</link>
+    <link>https://vigorous-jepsen-d86e6f.netlify.com/education/</link>
     <description>Recent content in Education on missmorenakos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://missmorenakos.tk/education/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vigorous-jepsen-d86e6f.netlify.com/education/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
