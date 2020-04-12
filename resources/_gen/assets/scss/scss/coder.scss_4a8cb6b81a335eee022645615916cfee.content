@@ -319,7 +319,7 @@ figure {
   width: 100%; }
   .navigation a, .navigation span {
     display: inline;
-    font-size: 2.6rem;
+    font-size: 2rem;
     font-family: Lato, Helvetica, sans-serif;
     line-height: 10.0rem;
     color: #212121; }
