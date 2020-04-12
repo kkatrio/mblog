@@ -1,0 +1,3 @@
+[submodule "themes/wild"]
+	path = themes/wild
+	url = git@github.com:kkatrio/wild.git
