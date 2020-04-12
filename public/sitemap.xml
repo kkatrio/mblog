@@ -3,15 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://missmorenakos.tk/posts/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://missmorenakos.tk/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://missmorenakos.tk/education/</loc>
+  </url>
+  
+  <url>
+    <loc>https://missmorenakos.tk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://missmorenakos.tk/quotes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://missmorenakos.tk/reviews/</loc>
+  </url>
+  
+  <url>
+    <loc>https://missmorenakos.tk/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://missmorenakos.tk/about/</loc>
   </url>
   
 </urlset>

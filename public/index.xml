@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>missmorenakos</title>
+    <link>https://missmorenakos.tk/</link>
+    <description>Recent content on missmorenakos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://missmorenakos.tk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quotes</title>
+      <link>https://missmorenakos.tk/quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://missmorenakos.tk/quotes/</guid>
+      <description>Πειθαρχία Η επιλογή ανάμεσα στο τι θες τώρα και στο τι θες περισσότερο.
+&amp;ndash;Α. Lincoln
+ Μόνο με τον θάνατο σου πείθονται οι ανθρωποι για τα δίκια σου, για την ειλικρίνεια σου και για τη σοβαρότητα των βασάνων σου. Όσο βρίσκεσαι στη ζωή, η περίπτωση σου ειναι υπό αμφισβήτηση, δε δικαιούσαι παρά τον σκεπτικισμό τους. Αν λοιπόν υπήρχε μόνο η βεβαιότητα πως μπορείς να ευχαριστηθείς το θέαμα, θα αξιζε τον κόπο να τους αποδείξεις ό,τι δεν θέλουν να πιστέψουν , και να τους ξαφνιάσεις.</description>
+    </item>
+    
+    <item>
+      <title>Who am I</title>
+      <link>https://missmorenakos.tk/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://missmorenakos.tk/about/</guid>
+      <description>This is about me.</description>
+    </item>
     
   </channel>
 </rss>
