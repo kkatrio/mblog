@@ -1,6 +1,8 @@
 ---
-title: "Who am I"
+
 ---
 
 
-This is about me.
+What do I know? Do I know things?
+
+Let’s find out.

@@ -49,6 +49,10 @@ pygmentscodefencesguesssyntax = true
     weight = 4
     url = "/quotes/"
 [[menu.main]]
-    name = "about"
+    name = "vocabulary"
     weight = 5
+    url = "/vocabulary/"
+[[menu.main]]
+    name = "about"
+    weight = 6
     url = "/about/"
