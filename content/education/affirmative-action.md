@@ -3,7 +3,7 @@ title: "Αffirmative action"
 date: "2020-04-13"
 ---
 
-[Αffirmative action](../vocabulary#affirmative-action) is a controversial issue among teachers. 
+[Αffirmative action](../../vocabulary/#affirmative-action) is a controversial issue among teachers. 
 
 If you want to watch a dialogue about affirmative action that contains some well laid out thoughts, jokes and even to discover, for the first time in your life, the teleological thinking of Winnie the Pooh click the link below:
 

@@ -23,13 +23,10 @@ pygmentscodefencesguesssyntax = true
 
     footercontent = "Enter a text here."
 
-    hidecredits = false
-    hidecopyright = false
-
-    rtl = false
-
     math = true
     custom_css = ["css/custom.css"]
+
+    mainSections = ["education", "reviews", "general"]
 
 # Menu links
 [[menu.main]]
