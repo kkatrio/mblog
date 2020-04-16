@@ -24,7 +24,7 @@ describes the process that the subject undergoes when the subject resists the te
 --[*From:Wikipedia*](https://en.wikipedia.org/wiki/Delayed_gratification)
 
 
-#### Ανασταλτικός έλεγχος (Inhibitory control) 
+#### Ανασταλτικός έλεγχος, Inhibitory control 
 αναφέρεται στην ικανότητα αναστολής μιας ακατάλληλης απάντησης ή στοιχείου της προσοχής, για την αποτελεσματικότερη απόκριση σε μια περίσταση (Shing, Lindenberger, Diamond, & Davidson, 2010). Ένα άτομο, ενώ μπορεί να έχει επίγνωση των παραμέτρων ενός προβλήματος, μπορεί να δυσκολεύεται να αναστείλει μια ακατάλληλη αρχική αντίδραση για την επίλυση ενός προβλήματος.
 
 
