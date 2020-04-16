@@ -10,7 +10,7 @@ html {
 body {
   color: #212121;
   background-color: #FAFAFA;
-  font-family: Merriweather, Georgia, serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.8em; }
@@ -20,7 +20,7 @@ body {
       line-height: 1.6em; } }
 a {
   font-weight: 300;
-  color: #1565c0;
+  color: #0aa2a2;
   text-decoration: none; }
   a:focus, a:hover {
     /*text-decoration: underline;*/ }
@@ -34,7 +34,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Lato, Helvetica, sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-weight: 700;
   color: #000;
   margin: 6.4rem 0 3.2rem 0; }
@@ -177,6 +177,9 @@ figure {
 .fas {
   font-weight: 900; }
 
+.icon {
+  height: 1.6rem; }
+
 .content {
   flex: 1;
   display: flex;
@@ -256,10 +259,10 @@ figure {
     .list ul li .title {
       font-size: 1.8rem;
       color: #212121;
-      font-family: Lato, Helvetica, sans-serif;
+      font-family: "IBM Plex Sans", sans-serif;
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
-        color: #1565c0; }
+        color: #0aa2a2; }
 
 .centered {
   display: flex;
@@ -292,7 +295,7 @@ figure {
           margin-right: 1.0rem;
           font-size: 1.6rem; }
           .centered .about ul li a:hover, .centered .about ul li a:focus {
-            color: #1565c0; }
+            color: #0aa2a2; }
           @media only screen and (max-width: 768px) {
             .centered .about ul li a {
               font-size: 1.4rem; } }
@@ -320,11 +323,11 @@ figure {
   .navigation a, .navigation span {
     display: inline;
     font-size: 2rem;
-    font-family: Lato, Helvetica, sans-serif;
+    font-family: "IBM Plex Sans", sans-serif;
     line-height: 10.0rem;
     color: #212121; }
   .navigation a:hover, .navigation a:focus {
-    color: #1565c0; }
+    color: #0aa2a2; }
   .navigation .navigation-title {
     letter-spacing: 0.1rem; }
   .navigation .navigation-list {
@@ -386,11 +389,11 @@ figure {
         color: #212121;
         cursor: pointer; }
         .navigation .menu-button:hover, .navigation .menu-button:focus {
-          color: #1565c0; } }
+          color: #0aa2a2; } }
 .pagination {
   margin-top: 6.0rem;
   text-align: center;
-  font-family: Lato, Helvetica, sans-serif; }
+  font-family: "IBM Plex Sans", sans-serif; }
   .pagination li {
     display: inline;
     text-align: center;
@@ -412,6 +415,6 @@ figure {
   line-height: 2.0rem;
   margin-bottom: 1.0rem; }
   .footer a {
-    color: #1565c0; }
+    color: #0aa2a2; }
 
 /*# sourceMappingURL=main.css.map */
