@@ -1,4 +1,4 @@
-baseurl = "https://vigorous-jepsen-d86e6f.netlify.com"
+baseurl = "https://missmorenakos.com"
 title = "missmorenakos"
 theme = "wild"
 languagecode = "en"
@@ -33,10 +33,6 @@ pygmentscodefencesguesssyntax = true
     name = "education"
     weight = 2
     url  = "/education/"
-[[menu.main]]
-    name = "reviews"
-    weight = 3
-    url  = "/reviews/"
 [[menu.main]]
     name = "general"
     weight = 4
