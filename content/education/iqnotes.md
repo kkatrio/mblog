@@ -10,8 +10,8 @@ Is Intelligence important?
 
 What is IQ: a measure of intelligence, G factor.  
 Popular IQ tests: Wais (works well toward normal distribution) & Stanford-binet (works well toward extreme and low distribution).  
-* Average IQ for somebody who graduates high school: 105
-* Average IQ for somebody who graduates college: 115
+- Average IQ for somebody who graduates high school: 105
+- Average IQ for somebody who graduates college: 115
 
 The concept of IQ doesn’t seem to linked to close to personality.  
 Openness to experience/Intellectual curiosity correlates moderately to intelligence and IQ.  
