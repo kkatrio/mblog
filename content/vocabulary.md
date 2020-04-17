@@ -32,3 +32,10 @@ describes the process that the subject undergoes when the subject resists the te
 Ως αυτορρύθμιση (self-regulation) ορίζεται η διαδικασία με την οποία οι μαθητές ενεργοποιούν και διατηρούν γνωστικές λειτουργίες, συμπεριφορές και συναισθήματα τα οποία είναι συστηματικά προσανατολισμένα στην επίτευξη των στόχων τους. Εξετάζει το βαθμό κατά το οποίο συμμετέχουν ενεργά στη μαθησιακή τους διαδικασία, εξετάζοντας παράγοντες όπως τη μεταγνώση, τις πεποιθήσεις κινήτρων και τη συμπεριφορά τους (Παντελιάδου & Μπότσας, 2007). Παράλληλα, καθορίζει γενικότερες διαστάσεις της ζωής, όπως την αποτελεσματική διαχείριση του χρόνου του μαθητή, τις πεποιθήσεις αυτό-κινητοποίησης που κατέχει (αυτο-αποτελεσματικότητα, προσδοκίες αποτελέσματος, εσωτερικό ενδιαφέρον και προσανατολισμός στον στόχο). Τέλος, περιλαμβάνει την αξιολόγηση και τον αναστοχασμό των προσπαθειών που έχει καταβάλει, μέσα από την οποία μπορεί να αισθανθεί υπερηφάνεια ή και ικανοποίηση (Παντελιάδου & Μπότσας, 2007).
 
 Οι γνωστικές διεργασίες οι οποίες συμπεριλαμβάνονται στην αυτορρύθμιση είναι η  μετατόπιση της προσοχής, η εργαζόμενη μνήμη και η ικανότητα αναστολής. Ακόμη, εμπλέκονται γνωστικές διεργασίες ελέγχου οι οποίες εμφανίζονται κατά τον σχεδιασμό, την επίλυση προβλημάτων και κατά την εφαρμογή μιας τελικής αντίδρασης (Blair & Razza, 2007).
+
+
+#### Tu quoque (argumentum ad hominem)
+It involves not accepting a view or a recommendation because the espouser him- or herself does not follow it. Thus, if our neighbor advises us to exercise regularly and we reject her advice on the basis that she does not exercise regularly, we commit the tu quoque fallacy: the value of advice is not wholly dependent on the integrity of the advisor.
+
+--[*From:Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/fallacies/)
+
