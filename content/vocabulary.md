@@ -39,3 +39,8 @@ It involves not accepting a view or a recommendation because the espouser him- o
 
 --[*From:Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/fallacies/)
 
+
+#### Political secularism
+ideologies and policies which seek to keep civic life free from religious domination or preference. That is, keeping government out of the business of religion and religion out of the business of government.
+
+--[*From:Psychology Today*](https://www.psychologytoday.com/us/blog/the-secular-life/201808/what-is-secularism)

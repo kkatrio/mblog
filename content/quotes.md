@@ -112,7 +112,7 @@ One's only failure is failing to live up to one's own possibilities.
 ---
 
 ##### Life full of problems
-Life is essentially an endless series of problems the solution to one problem is merely the cretion of the next. Don't hope for a life without pobllems. Hope for a life full of good ones.
+Life is essentially an endless series of problems the solution to one problem is merely the cretion of the next. Don't hope for a life without problems. Hope for a life full of good ones.
 
 --*Mark Manson*
 
