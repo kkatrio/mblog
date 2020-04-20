@@ -24,8 +24,12 @@ The second formula is the humanity formula. We should never act in  such a way t
 To conclude, If you want to be a good person that depends on your will. If your will is determined by reason, then you choose, not under the rule of your own passions or inclinations, but on the basis of the moral low. It seems that free will and a will under moral law is the same thing. So being selfish or corrupted suddenly appears stupid. If you want to be that kind of person you are also slave of your desires and passions. Basically, you are not free. But don’t forget, if you become moral only for the reason that you don’t want to be stupid, according to Kant’s philosophy, you are still in the same page. 
 
 Sources that inspired me:
+
 - [Kant’s Moral Philosophy](https://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut)
+
 - [Beginner's Guide to Kant's Moral Philosophy](https://www.youtube.com/watch?v=mQ2fvTvtzBM)
+
 - [PHILOSOPHY:Immanuel Kant](https://www.youtube.com/watch?v=nsgAsw4XGvU)
+
 - [Justice:"MIND YOUR MOTIVE"](https://www.youtube.com/watch?v=8rv-4aUbZxQ&list=PL30C13C91CFFEFEA6&index=6)
  
