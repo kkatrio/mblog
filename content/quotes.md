@@ -191,3 +191,19 @@ Once the familiar turns strange, it’s never quite the same again. Self-knowled
 --*Michael Sandel*
 
 ---
+
+
+##### Education 
+Whether children have first amendment rights is a vexed legal question, but what is not in question is that they someday will. Constraining them from expressing their views is no preparation for exercising those rights.
+
+--*Crispin Sartwell*
+
+---
+
+
+##### Ugly times 
+Why do we have flowers at a funeral? Why when times are so ugly do we have something beautiful sitting there? Like surely that’s just an insult. But, he says no it’s cause it reminds us to keep desiring and what’s life is about. It’s about hapiness and seeking pleasure. Beauty is what reminds us to keep living. 
+
+--*Oliver Thorn quoting Crispin Sartwell*
+
+--- 

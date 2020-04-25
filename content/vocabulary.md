@@ -44,3 +44,17 @@ It involves not accepting a view or a recommendation because the espouser him- o
 ideologies and policies which seek to keep civic life free from religious domination or preference. That is, keeping government out of the business of religion and religion out of the business of government.
 
 --[*From:Psychology Today*](https://www.psychologytoday.com/us/blog/the-secular-life/201808/what-is-secularism)
+
+
+#### Will-o'-the-wisp
+In literature, will-o'-the-wisp metaphorically refers to a hope or goal that leads one on but is impossible to reach, or something one finds sinister and confounding.
+
+--[*From:Wikipedia*](https://en.wikipedia.org/wiki/Will-o%27-the-wisp)
+
+
+#### White fragility
+White people in North America live in a social environment that protects and insulates them from race-based stress. This insulated environment of racial protection builds white expectations for racial comfort while at the same time lowering the ability to tolerate racial stress, leading to what I refer to as White Fragility. White Fragility is a state in which even a minimum amount of racial stress be-comes intolerable, triggering a range of defensive moves. These moves include the outward display of emotions such as anger, fear, and guilt, and behaviors such as argumentation, silence, and leaving the stress-inducing situation. These behaviors, in turn, function to reinstate white racial equilibrium.
+
+--[*From:International Journal of Critical Pedagogy*](https://libjournal.uncg.edu/ijcp/article/viewFile/249/116)
+
+
