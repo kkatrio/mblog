@@ -53,7 +53,7 @@ In literature, will-o'-the-wisp metaphorically refers to a hope or goal that lea
 
 
 #### White fragility
-White people in North America live in a social environment that protects and insulates them from race-based stress. This insulated environment of racial protection builds white expectations for racial comfort while at the same time lowering the ability to tolerate racial stress, leading to what I refer to as White Fragility. White Fragility is a state in which even a minimum amount of racial stress be-comes intolerable, triggering a range of defensive moves. These moves include the outward display of emotions such as anger, fear, and guilt, and behaviors such as argumentation, silence, and leaving the stress-inducing situation. These behaviors, in turn, function to reinstate white racial equilibrium.
+White people in North America live in a social environment that protects and insulates them from race-based stress. This insulated environment of racial protection builds white expectations for racial comfort while at the same time lowering the ability to tolerate racial stress, leading to what I refer to as White Fragility. White Fragility is a state in which even a minimum amount of racial stress becomes intolerable, triggering a range of defensive moves. These moves include the outward display of emotions such as anger, fear, and guilt, and behaviors such as argumentation, silence, and leaving the stress-inducing situation. These behaviors, in turn, function to reinstate white racial equilibrium.
 
 --[*From:International Journal of Critical Pedagogy*](https://libjournal.uncg.edu/ijcp/article/viewFile/249/116)
 

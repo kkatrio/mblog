@@ -207,3 +207,36 @@ Why do we have flowers at a funeral? Why when times are so ugly do we have somet
 --*Oliver Thorn quoting Crispin Sartwell*
 
 --- 
+
+
+
+##### About faith 
+These beliefs aren’t representative of the views of most theists, but the problem is, if you’re giving up on reasons and evidence, all beliefs are philosophically equal. We count on evidence and justification to help us adjudicate between beliefs, to decide what we value.  If you throw that out, and fall back on faith alone, the sum of your religious arguments is going to end up being:  I have faith in the things I choose to have faith in.  And in that case, no one can tell anyone else that their belief is wrong,  or dangerous, or unjustified, because you can’t justify faith. 
+
+
+--*from yt channel "crash course philosophy"*
+
+--- 
+
+
+
+##### Anxiety 
+You get to pick your anxiety. I could be either anxious about speaking or I could be anxious about not speaking. 
+
+
+--*J. Peterson*
+
+---
+
+
+
+##### Right thing
+I don’t necessarily think that what I’m doing is the right thing because you have to be careful when you make a claim like that, but I can tell you one thing I’m not going to let anyone stand in the way of me trying to figure out what the right thing is. 
+
+--*J. Peterson*
+
+---
+
+
+
+
