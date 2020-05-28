@@ -238,5 +238,24 @@ I don’t necessarily think that what I’m doing is the right thing because you
 ---
 
 
+##### Free will and responsibility 
+Churchland says, asking “Am I free?” is really the wrong question. Instead, we should be asking, “How much control do I have?” And the more control we have, the more responsibility we also have. 
+
+
+--*from yt channel "crash course philosophy"*
+
+--- 
+
+
+##### Live authentically 
+Sartre used this to mean that you have to accept the full weight of your freedom in light of the absurd. You have to recognize that any meaning your life has, is given to it by you. 
+
+--*from yt channel "crash course philosophy"*
+
+--- 
+
+
+
+
 
 
