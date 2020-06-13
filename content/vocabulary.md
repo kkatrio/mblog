@@ -61,7 +61,7 @@ White people in North America live in a social environment that protects and ins
 #### The Euthyphro Problem
 The Euthyphro dilemma is found in Plato's dialogue Euthyphro."The question Socrates asks can be framed something like this: 
 - Are right actions right because God commands them? 
-- Or are right actions commanded by God because they are right? "
+- Or are right actions commanded by God because they are right?"
 
 --[*From:yt channel"Crash Course Philosophy"*](https://www.youtube.com/watch?v=wRHBwxC8b8I&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=34)
 

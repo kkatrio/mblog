@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>missmorenakos</title>
+    <link>https://missmorenakos.com/general/</link>
+    <description>Recent content on missmorenakos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Apr 2020 17:13:11 +0300</lastBuildDate>
+    
+	<atom:link href="https://missmorenakos.com/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Being moral, free and reasonable at the same time</title>
+      <link>https://missmorenakos.com/general/kantsphilosophy/</link>
+      <pubDate>Mon, 20 Apr 2020 17:13:11 +0300</pubDate>
+      
+      <guid>https://missmorenakos.com/general/kantsphilosophy/</guid>
+      <description>Do you ask yourself things like am I a good person? When are we free as human beings? Which is a moral worthy action? Or are there specific moral lows that can apply to everybody? So did Immanuel Kant. And he gave us some good answers.
+If you studied religion, you concluded that it attempted, among other things, to help us follow moral lows. Kant tried to replace religious authority with the authority of reason.</description>
+    </item>
+    
+    <item>
+      <title>How I write my blog</title>
+      <link>https://missmorenakos.com/general/markdown/</link>
+      <pubDate>Fri, 17 Apr 2020 17:13:11 +0300</pubDate>
+      
+      <guid>https://missmorenakos.com/general/markdown/</guid>
+      <description>I am a beginner blogger and I want to share some things I learned this week. I built my blog with Hugo. To be honest I didn’t do this all by myself. Hugo, as its site says, “is one of the most popular open-source static site generators”. Although, popular doesn’t mean it’s for everyone. You must be a little tech-savvy.
+So if you pick Hugo you have to write your posts in Markdown language.</description>
+    </item>
+    
+    <item>
+      <title>Καραντίνα και χαρακτηριστικά προσωπικότητας</title>
+      <link>https://missmorenakos.com/general/personalitytraits/</link>
+      <pubDate>Wed, 15 Apr 2020 17:13:11 +0300</pubDate>
+      
+      <guid>https://missmorenakos.com/general/personalitytraits/</guid>
+      <description>Πώς βιώνεις τη καραντίνα; Τι ρόλο παίζει η προσωπικότητα σου; Υπάρχουν προσωπικότητες που ανταποκρίνονται καλύτερα στην καραντίνα;
+Η ανθρώπινη προσωπικότητα είναι μοναδική και πολύπλευρη με χαρακτηριστικά πρότυπα σκέψης, συναισθήματος και συμπεριφοράς. Είναι ενας συνδυασμός ενδογγενών και περιβαλλοντικών παραγόντων, καθώς και εμπειριών. Η προσωπικότητα κάποιου μπορεί να αλλάξει, αλλά τα βασικά χαρακτηριστικά του παραμένουν σταθερά στη διάρκεια της ζωής του.
+Οι ψυχολόγοι έχουν καταλήξει σε ένα μοντέλο ταξινόμησης των προσωπικοτήτων, το λεγόμενο “Big 5”.</description>
+    </item>
+    
+  </channel>
+</rss>

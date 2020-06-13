@@ -1,14 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education on missmorenakos</title>
-    <link>https://vigorous-jepsen-d86e6f.netlify.com/education/</link>
-    <description>Recent content in Education on missmorenakos</description>
+    <title>missmorenakos</title>
+    <link>https://missmorenakos.com/education/</link>
+    <description>Recent content on missmorenakos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 20 May 2020 17:47:11 +0300</lastBuildDate>
     
-	<atom:link href="https://vigorous-jepsen-d86e6f.netlify.com/education/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://missmorenakos.com/education/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Algorithms, scratch and recommended activities</title>
+      <link>https://missmorenakos.com/education/algorithm-activities/</link>
+      <pubDate>Wed, 20 May 2020 17:47:11 +0300</pubDate>
+      
+      <guid>https://missmorenakos.com/education/algorithm-activities/</guid>
+      <description>Programming sounds cool and is a very nice addition to the educational curriculum, but if you don’t know anything about programming, like me, or your kids don’t know anything about it, start from the basics.
+Remember the joke that I posted some weeks ago?
+A programmer is going to the supermarket and is told: “Buy a pint of milk, and if there are eggs, buy a dozen.” The programmer goes to the supermarket, buys everything, and drives back to his house.</description>
+    </item>
+    
+    <item>
+      <title>A story about justice in education</title>
+      <link>https://missmorenakos.com/education/justice/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://missmorenakos.com/education/justice/</guid>
+      <description>| “If we knew nothing about where we’ d end up, what sort of a society would it feel safe to enter?” &amp;ndash;John Rawls |
+Matters of injustice arise everyday in informal frameworks and mainly in relation to our own life. Day – to – day it can be hard to take unfairness seriously. I mean to really imagine how life would be If you weren’t you. We work hard and we have ambitions.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on programming in school</title>
+      <link>https://missmorenakos.com/education/programming/</link>
+      <pubDate>Thu, 16 Apr 2020 17:13:11 +0300</pubDate>
+      
+      <guid>https://missmorenakos.com/education/programming/</guid>
+      <description>It is quite common to use a computer in classroom nowadays, even in Kindergarten. Young kids often know the basics, how to move the mouse, open the computer, play a game etc. But we could go beyond this by adding programming in our educational programs.
+Why? There are a lot of reasons. Kids are already consumers of tech and it is at least pleasant to be an active producer. Moreover, through programming children develop computation thinking skills, such as logical thinking, expressing a task in a clear, precise way, breaking down a problem into components and tackling them one at a time, resilience through spotting and fixing problems and collaboration skills.</description>
+    </item>
+    
+    <item>
+      <title>Gardner&#39;s theory of multiple intelligences is indeed theory?</title>
+      <link>https://missmorenakos.com/education/multiple-intelligence/</link>
+      <pubDate>Tue, 14 Apr 2020 17:13:11 +0300</pubDate>
+      
+      <guid>https://missmorenakos.com/education/multiple-intelligence/</guid>
+      <description>Theory should explain something, provide evidence and make predictions. That doesn’t mean that a theory is indisputable. A theory can be proved wrong or added upon.
+So let’s see reliability and validity of Gardner’s theory. Maybe you assume that the theory became popular based on supportive study results. The truth is that the first study to test the theory was published 23 years after the theory was made public. The study did not support Gardner’s theory of multiple intelligences.</description>
+    </item>
+    
+    <item>
+      <title>Notes about IQ</title>
+      <link>https://missmorenakos.com/education/iqnotes/</link>
+      <pubDate>Tue, 14 Apr 2020 17:13:11 +0300</pubDate>
+      
+      <guid>https://missmorenakos.com/education/iqnotes/</guid>
+      <description>Does somebody need to know their IQ? Is IQ important? Is Intelligence important?
+What is IQ: a measure of intelligence, G factor.
+Popular IQ tests: Wais (works well toward normal distribution) &amp;amp; Stanford-binet (works well toward extreme and low distribution).
+ Average IQ for somebody who graduates high school: 105 Average IQ for somebody who graduates college: 115  The concept of IQ doesn’t seem to linked to close to personality.</description>
+    </item>
+    
+    <item>
+      <title>11 Signs a child is at risk for Psychopathy</title>
+      <link>https://missmorenakos.com/education/signs-child-risk-phycopathy/</link>
+      <pubDate>Mon, 13 Apr 2020 17:13:11 +0300</pubDate>
+      
+      <guid>https://missmorenakos.com/education/signs-child-risk-phycopathy/</guid>
+      <description>A useful guide to the alarming behaviors of children that are at risk for Psychopathy. Additionally, it contains a brief explanation of the 2 types of psychopathy.
+Pay attention to the 9th sign, for it contains a hot tip about the utility of punishment.
+The last sentence can be also a good guidance for educational intervention programs: “They learn that they can get more of what they want by following the law as opposed to breaking the law”.</description>
+    </item>
+    
+    <item>
+      <title>Αffirmative action</title>
+      <link>https://missmorenakos.com/education/affirmative-action/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://missmorenakos.com/education/affirmative-action/</guid>
+      <description>Αffirmative action is a controversial issue among teachers.
+If you want to watch a dialogue about affirmative action that contains some well laid out thoughts, jokes and even to discover, for the first time in your life, the teleological thinking of Winnie the Pooh click the link below:
+Justice: What’s the right thing to do? Arguing affirmative action</description>
+    </item>
     
   </channel>
 </rss>

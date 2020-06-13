@@ -255,6 +255,16 @@ Sartre used this to mean that you have to accept the full weight of your freedom
 --- 
 
 
+##### Melancholic People 
+At the same time, melancholy positions a person ideally in relation to hope. They do not, like the naive, place their faith in grand schemes for flawless lives. They don’t play the lottery of romantic love or of professional success. They know the odds they would be beating with even a half-way tolerable relationship and an only sometimes-maddening job. But this doesn’t have to mean that they can never smile or appreciate what is beautiful or tender. Arguably, it’s their awareness of a fundamental and ultimately victorious darkness that lends them the energy to pay particular attention to the brighter moments that will at points streak across a pitchblack firmament. They can be intensely grateful and sometimes giddily joyful because they know grief so well – not because they have never suffered at all. They can be very keen to dance (badly) and to make a great deal out of a sunny day or a perfect piece of fruit. A child will laugh because something is funny; a melancholy adult will laugh with greater depth still because they know that so many things are not.
+
+--*from the book of life, Self - knowledge*
+
+--- 
+
+
+
+
 
 
 
