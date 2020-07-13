@@ -1,6 +1,6 @@
 ---
 title: "Coping strategies for ADHD"
-date:  2020-07-13 17:10:40 +0300
+date:  2020-07-13 11:05:40 +0300
 ---
 
 
@@ -44,8 +44,4 @@ Sources that inspired me:
 
 
 
-
-
-
-[Enjoy the video](https://www.youtube.com/watch?v=NPEC-bDB6sQ)
 
