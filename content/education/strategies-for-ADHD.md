@@ -1,6 +1,6 @@
 ---
 title: "Coping strategies for ADHD"
-date:  2020-07-13 11:05:40 +0300
+date:  2020-07-12 11:05:40 +0300
 ---
 
 
