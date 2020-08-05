@@ -66,6 +66,12 @@ The Euthyphro dilemma is found in Plato's dialogue Euthyphro."The question Socra
 --[*From:yt channel"Crash Course Philosophy"*](https://www.youtube.com/watch?v=wRHBwxC8b8I&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=34)
 
 
+#### Begging the question
+In classical rhetoric and logic, begging the question is an informal fallacy that occurs when an argument's premises assume the truth of the conclusion, instead of supporting it. It is a type of circular reasoning: an argument that requires that the desired conclusion be true
+
+--[*From:Wikipedia*](https://en.wikipedia.org/wiki/Begging_the_question)
+
+
 
 
 
