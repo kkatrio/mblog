@@ -26,7 +26,7 @@ pygmentscodefencesguesssyntax = true
     math = true
     custom_css = ["css/custom.css"]
 
-    mainSections = ["education", "reviews", "general"]
+    mainSections = ["education", "reviews", "general", "quick_reviews"]
 
 # Menu links
 [[menu.main]]
