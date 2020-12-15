@@ -13,19 +13,19 @@ In this article – game I am not going to give any advise on how to put histori
 
 Let’s begin! 
 
--Cretan War (between Ottoman and Venetian Empire) 
--Fall of the western Roman Empire (commonly fall of Rome) 
--Byzantine Empire gives control of Thessaloniki to Venetians 
--Western Christians capture and destroy Constantinople 
--Terminating of byzantine fleet by Palaiologos’ dynasty 
--Ottomans capture Thessaloniki 
--The recapture of Constantinople by Vyzantine emperors 
--Fall of Constantinopole by Ottoman Empire 
--Battle of Kossovo (Ottomans – Serbians) 
--Fall of Cyprus after Venetian – Ottoman War 
--Fall of Gallipoli  (first european area that was captured by Ottomans) 
--Athens chosen as the greek capital 
--East–West Schism (or the Great Schism)
+* Cretan War (between Ottoman and Venetian Empire) 
+* Fall of the western Roman Empire (commonly fall of Rome) 
+* Byzantine Empire gives control of Thessaloniki to Venetians 
+* Western Christians capture and destroy Constantinople 
+* Terminating of byzantine fleet by Palaiologos’ dynasty 
+* Ottomans capture Thessaloniki 
+* The recapture of Constantinople by Vyzantine emperors 
+* Fall of Constantinopole by Ottoman Empire 
+* Battle of Kossovo (Ottomans – Serbians) 
+* Fall of Cyprus after Venetian – Ottoman War 
+* Fall of Gallipoli  (first european area that was captured by Ottomans) 
+* Athens chosen as the greek capital 
+* East–West Schism (or the Great Schism)
 
 
 
