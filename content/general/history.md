@@ -9,7 +9,7 @@ Hello guys, it’s been a while. This article is not so much of an article, is m
 
 I am always so confused about what happens first in history. We learn so many historical facts in school, but we don't learn how to put them in order. Is it important though to put history in order? I think that it is. We can relate things this way, we can assume or come to a conclusion about how areas, strategies and people interact with each other. 
 
-In this article – game I am not going to give any advise on how to put historical facts in right order. I will just give you some events, mainly from the medieval period, and and you try to arrange them correctly!
+In this article – game I am not going to give any advise on how to put historical facts in right order. I will just give you some events, mainly from the medieval period, and you try to arrange them correctly!
 
 Let’s begin! 
 
