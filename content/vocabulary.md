@@ -1,5 +1,13 @@
 
 
+
+
+#### Testing effect 
+is the established psychological observation that the mere act of testing someone’s memory will strengthen the memory (regardless of whether there is feedback).
+
+--[*From:gwern.net blog*](https://www.gwern.net/Spaced-repetition)
+
+
 #### Affirmative action
 means positive steps taken to increase the representation of women and minorities in areas of employment, education, and culture from which they have been historically excluded. When those steps involve preferential selection—selection on the basis of race, gender, or ethnicity—affirmative action generates intense controversy.
 

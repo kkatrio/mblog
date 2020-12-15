@@ -5,6 +5,24 @@ date:  2020-01-10 20:45 +0300
 
 
 
+
+
+##### Philosophers
+But people who practice philosophy are also simply people who ask why, who are willing to challenge something that doesn’t seem right, to listen to other people’s opinions, and to be ever-ready to accept new truths, if the evidence is there. These are parents who talk with their kids about why they have to do things, rather than just issuing edicts, who even let their children have a hand in decision-making, when appropriate. These are enlightened employers, and mindful workers. Philosophers actually make good bosses, and they make good employees, in whatever profession they choose, because philosophy teaches you to be creative, flexible, and holistic in your vision and thinking. To live as a philosopher means to never stop questioning, and to never stop striving for Truth – to continue working to live better, to know more, and to revise your position based on new evidence. Philosophers are convinced that this is the best way to live a good life. 
+
+--*from yt channel "crash course philosophy"*
+
+--- 
+
+##### Eudaimonia
+You might say it means “a life well lived.” It’s sometimes translated as “human flourishing.” And a life of eudaimonia is a life of striving. It’s a life of pushing yourself to your limits, and finding success. A eudaimonistic life will be full of the happiness that comes from achieving something really difficult, rather than just having it handed to you. But choosing to live a eudaimonistic life means that you’re never done improving, you’re never to a point where you can just coast. You’re constantly setting new goals, and working to develop new muscles. Choosing to live life in this way also means you'll face disappointments, and failures. Eudaimonia doesn’t mean a life of cupcakes and rainbows. It means the sweet pleasure of sinking into bed at the end of an absolutely exhausting day. It’s the satisfaction of knowing you’ve accomplished a lot, and that you’ve pushed yourself to be the very best person you could be. This is morality, for Aristotle. It’s being the best you can personally be, honing your strengths while working on your weaknesses. And, for Aristotle, the kind of person who lives like this, is the kind of person who will do good things. 
+
+--*from yt channel "crash course philosophy"*
+
+--- 
+
+
+
 ##### Πειθαρχία
 Η επιλογή ανάμεσα στο τι θες τώρα και στο τι θες περισσότερο.
 
@@ -318,6 +336,11 @@ The best part about someone is usually also the worst part of someone. The trait
 
 
 
+##### Ενθουσιασμός
+Χώρις τον ενθουσιασμό – μέσα στον ενθουσιασμό βάζω και την οργή- δεν μπορεί να δουλέψει η ανθρωπότης. Επάνω στον ενθουσιασμό όμως δεν δουλέβει καλά. Πρέπει να περάσει ο ενθουσιασμός δια να εργαστεί αποτελεσματικά, αλλά και τότε – στην νηφάλια κατάστασι – κάμνει έργα που πηγάζουν από την περίοδο του ενθουσιασμού. Όποιος ενθουσιάζεται πάρα πολύ, δεν μπορεί να κάμει καλή εργασία • όποιος δεν ενθουσιάζεται ποτέ, μήτε. 
 
+--*Καβάφης*
+
+---
 
 
