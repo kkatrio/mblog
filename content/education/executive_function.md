@@ -1,5 +1,5 @@
 ---
-title: "Executive function; definition, measures and how to improve it"
+title: "Executive function: definition, measures and how to improve it"
 date:  2020-12-24 11:05:40 +0300
 ---
 

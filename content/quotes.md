@@ -45,7 +45,7 @@ I learned that the ultimate sign of intimacy is not all you can say to a friend,
 
 
 ##### Stoicism
-...some people, in recent years, have revived Stoicism, arguing that in life you will experience pain, disappointment, and that life is, in general, is difficult. Taking this premise as true they suggest practicing stoicism in order to train ourselves to deal with these realities in a more healthier way. To be stoic, people argue, is a passive understanding of the world, and expecting every possible outcome, specially the ones we wouldn't enjoy; so, if those undesirable outcomes do in fact occur, we will be 'immunized'. That doesn't mean that things won't upset us, it means we won't be taken by such a surprise, and the handling of our emotions will be easier. Marcus Aurelius began every day repeating to himself: "Today I'll meet unpleasant people" or something like that.
+Some people, in recent years, have revived Stoicism, arguing that in life you will experience pain, disappointment, and that life is, in general, is difficult. Taking this premise as true they suggest practicing stoicism in order to train ourselves to deal with these realities in a more healthier way. To be stoic, people argue, is a passive understanding of the world, and expecting every possible outcome, specially the ones we wouldn't enjoy; so, if those undesirable outcomes do in fact occur, we will be 'immunized'. That doesn't mean that things won't upset us, it means we won't be taken by such a surprise, and the handling of our emotions will be easier. Marcus Aurelius began every day repeating to himself: "Today I'll meet unpleasant people" or something like that.
 
 ---
 
