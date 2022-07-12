@@ -1,5 +1,7 @@
+#### Ebbinghaus’s Forgetting Curve
+is the result of the research of german psychologist Hermann Ebbinghaus who wanted to understand why we forget things and what we can do about it. So, he created a visual representation of the way that learned information declines over time.
 
-
+--[*mindtools*](https://www.mindtools.com/pages/article/forgetting-curve.htm)
 
 
 #### Testing effect 
