@@ -14,6 +14,8 @@ But people who practice philosophy are also simply people who ask why, who are w
 
 --- 
 
+
+
 ##### Eudaimonia
 You might say it means “a life well lived.” It’s sometimes translated as “human flourishing.” And a life of eudaimonia is a life of striving. It’s a life of pushing yourself to your limits, and finding success. A eudaimonistic life will be full of the happiness that comes from achieving something really difficult, rather than just having it handed to you. But choosing to live a eudaimonistic life means that you’re never done improving, you’re never to a point where you can just coast. You’re constantly setting new goals, and working to develop new muscles. Choosing to live life in this way also means you'll face disappointments, and failures. Eudaimonia doesn’t mean a life of cupcakes and rainbows. It means the sweet pleasure of sinking into bed at the end of an absolutely exhausting day. It’s the satisfaction of knowing you’ve accomplished a lot, and that you’ve pushed yourself to be the very best person you could be. This is morality, for Aristotle. It’s being the best you can personally be, honing your strengths while working on your weaknesses. And, for Aristotle, the kind of person who lives like this, is the kind of person who will do good things. 
 
@@ -37,6 +39,16 @@ You might say it means “a life well lived.” It’s sometimes translated as �
 --*A. Καμύ, η Πτώση*
 
 ---
+
+
+##### Φυλαρχια, αλλιώς σε ´φαγα
+Με την άνοδο της φυλαρχίας πριν από περίπου 7.500 χρόνια, οι άνθρωποι ήταν υποχρεωμένοι να μάθουν για πρώτη φορά στην ιστορία πώς να συναντούν σε τακτική βάση ξένους χωρίς να επιχειρούν να τους σκοτώσουν.
+
+--*John Higgs, The 20th century*
+
+---
+
+
 
 ##### Ιntimacy
 I learned that the ultimate sign of intimacy is not all you can say to a friend, but all you don’t need to say.

@@ -1,3 +1,23 @@
+
+
+#### Tragedy of the commons 
+In economics, the phenomenon in which individual users strive for their own-self interest and in opposition to the common good of all users. The result of the above is a depletion of the resource and eventually a fail to accomplish our self -interests. 
+
+--[*wikipedia*](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
+
+ 
+#### Shellshock 
+is a term that describes the psycological breakdown that occured by bombing 
+
+--*“The 20th century”, John Higgs, p. 91*
+
+
+#### Occam’s Razor
+If there are two competing theories, the simpler one is most likely to be true
+
+--*“The 20th century”, John Higgs, p. 153*
+
+
 #### Ebbinghaus’s Forgetting Curve
 is the result of the research of german psychologist Hermann Ebbinghaus who wanted to understand why we forget things and what we can do about it. So, he created a visual representation of the way that learned information declines over time.
 

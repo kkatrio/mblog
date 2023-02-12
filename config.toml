@@ -26,7 +26,7 @@ pygmentscodefencesguesssyntax = true
     math = true
     custom_css = ["css/custom.css"]
 
-    mainSections = ["education", "reviews", "general", "quick_reviews"]
+    mainSections = ["education", "reviews", "general", "quick_reviews", "geography"]
 
 # Menu links
 [[menu.main]]
@@ -38,18 +38,18 @@ pygmentscodefencesguesssyntax = true
     weight = 4
     url  = "/general/"
 [[menu.main]]
-    name = "quotes"
+    name = "geography"
     weight = 5
+    url = "/geography/"
+[[menu.main]]
+    name = "quotes"
+    weight = 8
     url = "/quotes/"
 [[menu.main]]
     name = "vocabulary"
-    weight = 6
+    weight = 7
     url = "/vocabulary/"
 [[menu.main]]
     name = "quick reviews"
-    weight = 7
+    weight = 6
     url = "/quick_reviews/"
-[[menu.main]]
-    name = "about"
-    weight = 8
-    url = "/about/"
