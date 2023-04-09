@@ -8,7 +8,7 @@ They say “don’t judge a book by its cover”, but this is exactly what I did
 
 The protagonist of the book is a man from Ireland. He lives in a small town with his family of five daughters and his wife. He works many hours in his business (merchant of coal and logs), leaves his home before sunlight and comes back after the sun has set, without any complaints. He appreciates the good stuff that happened in his life and tries to enjoy every moment with his daughters. 
 
-In some point in the book apeear existential thoughts and worries about his future. While he appreciates the little things in life and takes plesure of the cozy moments with his lovely family, he realises that he doesn’t live in the present. He already feels nostalgia for the things that are happening. I think that readers can somehow relate themselves to these thoughts. 
+In some point in the book appear existential thoughts and worries about his future. While he appreciates the little things in life and takes plesure of the cozy moments with his lovely family, he realises that he doesn’t live in the present. He already feels nostalgia for the things that are happening. I think that readers can somehow relate themselves to these thoughts. 
 
 One day, near Christmas, he visits a monastery in order to deliver a package. Apart from the nuns in the monastery lived many girls that were clearly unhappy and tired. From that moment on he couldn’t think something else. I quote here Michael Sandel who said in one of his lectures “Once the familiar turns strange, it’s never quite the same again”. In other words, the unexcpecting truth he discovered, couldn’t be forgotten.
 
